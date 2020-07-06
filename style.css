@@ -29,7 +29,7 @@ html {
     left: 50%;
     transform: translate(-50%, -50%);
     border-radius: 50%;
-    box-shadow: 0 1rem 3rem rgba(5, 36, 51, 0.4);
+    box-shadow: 0 1rem 3rem rgba(6, 51, 73, 0.4);
     cursor: pointer;
     display: flex;
     justify-content: space-evenly;
@@ -68,7 +68,7 @@ html {
     background-color: #28dbfb;
     padding: 2rem 3rem;
     border-radius: 5rem;
-    box-shadow: 0 1rem 3rem rgba(5, 36, 51, 0.4);
+    box-shadow: 0 1rem 3rem rgba(6, 51, 73, 0.4);
     transition: 0.3s;
 }
 
